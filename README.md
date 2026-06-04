@@ -87,4 +87,4 @@ This task demonstrates how machine learning can be used in the banking sector to
 # Author
 
 DevelopersHub Data Science Intern
-Faiza Zahoor
+Faiza Memon
